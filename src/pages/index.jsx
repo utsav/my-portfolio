@@ -71,15 +71,6 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Wizarding World"
-            link="https://www.wizardingworld.com"
-            bg="linear-gradient(to right, #1F1F1F 0%, #BEAE7D 100%)"
-          >
-            <b>Role</b>: Full Stack Developer
-            <br />
-            The official home for all fans of Harry Potter and Fantastic Beasts.
-          </ProjectCard>
-          <ProjectCard
             title="Happiness Factory"
             link="https://happinessfactory.app/"
             bg="linear-gradient(to right, #FFC101 0%, #FE5801 100%)"
