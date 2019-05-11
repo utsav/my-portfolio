@@ -99,17 +99,6 @@ const Index = () => (
             systems and nurse to nurse individual and group chat.
           </ProjectCard>
           <ProjectCard
-            title="Upload My Products"
-            link="http://uploadmyproducts.com/"
-            bg="linear-gradient(to right, #5B9024 0%, #FEFEFE 100%)"
-          >
-            <b>Role</b>: Web Developer
-            <br />
-            Upload Your Products to Multiple Marketplaces. Work as a middleware
-            where it pull user's data and push to different platforms like eBay,
-            Amazon, Google Shopping, Rakuten etc.
-          </ProjectCard>
-          <ProjectCard
             title="Rishtey TV"
             link="http://asia.colorsrishtey.com/"
             bg="linear-gradient(to right, #0B0B10 0%, #F6A422 100%)"
