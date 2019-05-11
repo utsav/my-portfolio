@@ -120,13 +120,11 @@ const Index = () => (
           </ProjectCard>
           <ProjectCard
             title="Rishtey TV"
-            link="//www.colorsrishtey.com"
+            link="http://asia.colorsrishtey.com/"
             bg="linear-gradient(to right, #0B0B10 0%, #F6A422 100%)"
           >
             <b>Role</b>: Web Developer
-            <br />
-            This project is my entry to Adobe's #ChallengeYourPerspective
-            contest.
+            <br />A well reputed Indian channel’s website
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
@@ -139,8 +137,11 @@ const Index = () => (
             <a href="https://techholding.co" target="__blank">
               Tech Holding
             </a>
-            {` in Ahmedabad. Previously, worked as a Full Stack Developer at Quark Studios and as Web Developer at Thinktanker and got my Diploma and Bachelor of Engineering at Gujrat Technological University in Informatino Technology. For more info, check out my `}
-            <a href="https://drive.google.com/file/d/19Ol93RRslU34AIRt_8WWtFr2ZNwDeF5u/view" target="__blank">
+            {` in Ahmedabad. Previously, worked as a Full Stack Developer at Quark Studios and as Web Developer at Thinktanker and got my Diploma and Bachelor of Engineering at Gujrat Technological University in Information Technology. For more info, check out my `}
+            <a
+              href="https://drive.google.com/open?id=1C_dE44_3oXO21uiBQ2PVy4E2gaqU5ZqE"
+              target="__blank"
+            >
               resume.
             </a>
           </AboutSub>
