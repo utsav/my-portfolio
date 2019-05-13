@@ -99,12 +99,23 @@ const Index = () => (
             systems and nurse to nurse individual and group chat.
           </ProjectCard>
           <ProjectCard
+            title="Muzix"
+            link="http://muzix.nl/"
+            bg="linear-gradient(to right, #FFC101 0%, #FE5801 100%)"
+          >
+            <b>Role</b>: Full Stack Developer
+            <br />
+            Happiness Factory is an React Native(Android, IOS) app with to do a
+            little good for the world. It came to Solve for Happy.
+          </ProjectCard>
+          <ProjectCard
             title="Rishtey TV"
             link="http://asia.colorsrishtey.com/"
-            bg="linear-gradient(to right, #0B0B10 0%, #F6A422 100%)"
+            bg="linear-gradient(to right, #F8603E 0%, #1A23A9 100%)"
           >
-            <b>Role</b>: Web Developer
-            <br />A well reputed Indian channel’s website
+            <b>Role</b>: Full Stack Developer, Dev-ops Engineer
+            <br />A user friendly social network for musicians where musicians
+            can collaborate with other musicians all over the world.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
